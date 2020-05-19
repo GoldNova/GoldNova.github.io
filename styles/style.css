@@ -14,9 +14,11 @@ margin: 100px auto;
 p{
 font-size: 25px;
 color: white;
+ font-family: Roboto;
 
 }
 
 .heading{
 color: white;
+ font-family: Arial;
 }
