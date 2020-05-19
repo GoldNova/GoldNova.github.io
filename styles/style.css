@@ -2,8 +2,8 @@ body{
 background-image:url(../pics/background.jfif);
 background-size: cover;
 background-attachment: fixed;
-
 }
+
 .content{
 background: #333333;
 width: 50%;
@@ -15,7 +15,6 @@ p{
 font-size: 25px;
 color: white;
  font-family: Roboto;
-
 }
 
 .heading{
