@@ -12,12 +12,12 @@ margin: 100px auto;
 }
 
 p{
-font-size: 25px;
+font-size: 20px;
 color: white;
- font-family: Roboto;
+font-family: Gill Sans, sans-serif;
 }
 
 .heading{
-color: white;
- font-family: Arial;
+color: 2BEED7; /* Türkis 2BEED7*/
+font-family: American Typewriter;
 }
