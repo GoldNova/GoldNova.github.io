@@ -10,14 +10,50 @@ width: 50%;
 padding: 40px;
 margin: 100px auto;
 }
-
+   
 p{
 font-size: 20px;
 color: white;
 font-family: Gill Sans, sans-serif;
 }
 
-.heading{
-color: 2BEED7; /* Türkis 2BEED7*/
+.headline{
+color: #2BEED7; /* Türkis 2BEED7*/
 font-family: American Typewriter;
+margin-top: 10px;
+}
+
+
+.navbar {
+width: 105%;
+height: 73px;
+background-color: rgba(0,0,0,.5);
+margin-top: -16px;
+margin-left: -8px;
+margin-right: 5px;
+}
+
+.navbar ul {
+text-align: center;
+}
+
+.navbar ul li {
+list-style: none;
+display: inline-block;
+}
+
+.navbar ul li a{
+display: block;
+text-decoration: none;
+color: #fff;
+font-size: 20px;
+letter-spacing: 2px;
+font-weight: 600;
+padding: 25px;
+transition: all ease 0.4s;
+}
+
+.navbar ul li a:hover{
+background-color: #053E3E;
+
 }
