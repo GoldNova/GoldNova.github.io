@@ -113,3 +113,10 @@ h6 {
     font-weight: bold;
     margin-top: 10px;
 }
+.embVideo {
+
+    width: 100%;
+    height: 500px;
+    object-fit: contain;
+    display: block;
+}
