@@ -14,14 +14,14 @@ margin: 100px auto;
 p{
 font-size: 20px;
 color: white;
-font-family: Gill Sans, sans-serif;
+font-family:  Georgia, sans-serif;
 }
 
-.headline{
-color: #2BEED7; /* Türkis 2BEED7*/
+/*.headline{
+color: #2BEED7; /* Türkis 2BEED7
 font-family: American Typewriter;
 margin-top: 10px;
-}
+}*/
 
 
 .navbar {
@@ -66,3 +66,50 @@ img{
     object-fit: contain;
     display: block;
     }
+
+.videoFile{
+
+    margin-left: 25%;
+    width: 50%;
+    height: 50%;
+    object-fit: contain;
+    display: block;
+
+}
+
+h1 {
+    font-family: Verdana, sans-serif;
+    color: #2BEED7;
+    font-weight: bold;
+    margin-top: 10px;
+}
+h2 {
+    font-family: Verdana, sans-serif;
+    color: #2BEED7;
+    font-weight: bold;
+    margin-top: 10px;
+}
+h3 {
+    font-family: Verdana, sans-serif;
+    color: #2BEED7;
+    font-weight: bold;
+    margin-top: 10px;
+}
+h4 {
+    font-family: Verdana, sans-serif;
+    color: #2BEED7;
+    font-weight: bold;
+    margin-top: 10px;
+}
+h5 {
+    font-family: Verdana, sans-serif;
+    color: #2BEED7;
+    font-weight: bold;
+    margin-top: 10px;
+}
+h6 {
+    font-family: Verdana, sans-serif;
+    color: #2BEED7;
+    font-weight: bold;
+    margin-top: 10px;
+}
