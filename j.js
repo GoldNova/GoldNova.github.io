@@ -1,6 +1,6 @@
-start_me_senpai();
+start_me_senpai()
 
 function start_me_senpai(){
 alert("You have been gnomed :DDD");
-window.open("https://de.pornhub.com/","_self");
+window.open("https://google.at/","_self");
 }
