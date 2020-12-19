@@ -38,7 +38,7 @@ function lePrank(){
 }
 
 function lel(){
-alert("Due to low ad revenue our cdn server has been shut down.\n Messages must now be sent trough hiddenlol.com");
-window.open("https://hiddenlol.com","_self");
+alert("Due to low ad revenue our cdn server has been shut down.\n Messages must now be sent trough 9gag.com");
+window.open("https://9gag.com","_self");
 
 }
